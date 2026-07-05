@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="HabitCopilot">
+  <defs>
+    <linearGradient id="pg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#9E82FF"/>
+      <stop offset="1" stop-color="#7C57F0"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="114" fill="url(#pg)"/>
+  <g transform="translate(256 256) scale(1.35) translate(-150 -150)">
+    <path d="M 236.4 118.5 A 92 92 0 1 1 181.5 63.6" fill="none" stroke="#FBF9F6" stroke-width="24" stroke-linecap="round"/>
+    <path d="M150 96 L161.3 138.7 L204 150 L161.3 161.3 L150 204 L138.7 161.3 L96 150 L138.7 138.7 Z" fill="#FBF9F6"/>
+  </g>
+</svg>
