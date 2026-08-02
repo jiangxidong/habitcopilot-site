@@ -82,3 +82,4 @@ footer.site {
 footer.site a { color: var(--muted); text-decoration: none; }
 footer.site a:hover { color: var(--accent); }
 footer.site .spacer { margin-left: auto; }
+footer.site .attribution { flex-basis: 100%; font-size: 12px; opacity: 0.75; }
